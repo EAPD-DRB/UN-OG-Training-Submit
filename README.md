@@ -9,3 +9,5 @@ This is repository is for users of the [*United National OG-Core Overlapping Gen
 
 ## The goal
 Our hope and goal is that this repository will become the forum through which users of the UN OG Training material will interact and ask questions and improve the content.
+- We encourage users to ask questions about the material by posting an Issue in the [Issues tab](https://github.com/rickecon/UN-OG-Training-Submit/issues). If you want a particular user to participate in answering the question, you can use the "@" sign. We encourage users of this site to first ask questions of their colleague's using the material and to work on the answers together. The maintainers of this materials will answering harder questions that the users were not able to solve on their own.
+- We enourage larger discussions of more general interest to be made as threads in the [Discussions tab](https://github.com/rickecon/UN-OG-Training-Submit/discussions).
