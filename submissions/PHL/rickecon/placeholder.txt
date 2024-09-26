@@ -1,1 +1,0 @@
-This file is a placeholder in order for GitHub to show the directory in which this file has been placed. Once other content is placed in this directory, this `placeholder.txt` file can be deleted.
